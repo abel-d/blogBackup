@@ -8,8 +8,8 @@ menu:
 subnav:
   github: "https://github.com/abel-d"
   weibo: "http://weibo.com/u/2304091090"
-  rss: "#"
-  zhihu: "#"
+  #rss: "#"
+  #zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -20,7 +20,7 @@ subnav:
   #mail: "mailto:litten225@qq.com"
   #facebook: "#"
   #google: "#"
-  #twitter: "https://twitter.com/bel___d_"
+  twitter: "https://twitter.com/bel___d_"
   #linkedin: "#"
 
 rss: /atom.xml
@@ -65,7 +65,7 @@ top: true
 # Miscellaneous
 baidu_analytics: false
 google_analytics: false
-favicon: /assets/blogImg/favicon.png
+favicon: /assets/blogImg/favicon.ico
 
 #你的头像url
 avatar: /assets/blogImg/WechatIMG18.jpeg
@@ -123,4 +123,4 @@ friends:
   博客框架: https://hexo.io/zh-cn/
   主题作者: http://litten.me/
 
-aboutme: 我的一生只有一个职业<strong>学生</strong><br>学会生活 学会成长<br>相信我 你并不孤独
+aboutme: 作为终生学习者<br><br>相信我 你并不孤独
