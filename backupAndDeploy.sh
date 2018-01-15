@@ -12,5 +12,5 @@ cd /Users/abel_d/GitProject/gitHubBlog/abel-d.github.io
 cp -R /Users/abel_d/GitProject/gitHubBlog/blog/public/* /Users/abel_d/GitProject/gitHubBlog/abel-d.github.io
 
 git add .
-git commit -m "backup blog"
+git commit -m "update gitHubBlog"
 git push 
