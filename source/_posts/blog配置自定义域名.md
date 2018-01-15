@@ -1,5 +1,5 @@
 ---
-title: blog配置自定义域名.md
+title: blog配置自定义域名
 date: 2018-01-15 15:46:59
 tags: 域名
 ---
