@@ -16,7 +16,7 @@ git push
 
 #deploy blog to another repo
 hexo g
-#hexo d 下面的cd命令是进入要上传到GitHub上的目录，~ ：这个建议全路径，我式为隐藏我的home目录才改的
+#hexo d 下面的cd命令是进入要上传到GitHub上的目录，~ ：这个建议全路径，我是为隐藏我的home目录才改的
 cd ~/GitProject/gitHubBlog/abel-d.github.io
 cp -R ~/GitProject/gitHubBlog/blog/public/* /Users/abel_d/GitProject/gitHubBlog/abel-d.github.io
 
