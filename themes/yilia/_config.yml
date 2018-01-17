@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  #随笔: /tags/随笔/
 
 # SubNav
 subnav:
@@ -81,7 +81,7 @@ share_jia: true
 duoshuo: false
 
 #2、网易云跟帖
-wangyiyun: false
+wangyiyun: true
 
 #3、畅言
 changyan_appid: false
@@ -123,4 +123,4 @@ friends:
   博客框架: https://hexo.io/zh-cn/
   主题作者: http://litten.me/
 
-aboutme: 作为终生学习者<br><br>相信我 你并不孤独
+aboutme: 终生学习者<br><br>相信我 你并不孤独
