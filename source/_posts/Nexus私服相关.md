@@ -10,7 +10,7 @@ tags:
 >
 > [这篇写的比较全，可以先看](https://www.jianshu.com/p/e4a3ab0298df)
 >
-> [书：Maven实战第九章]()
+> [书：Maven实战-第九章](https://pan.baidu.com/s/1ggDUH15)
 
 ##### 一、安装Nexus私服
 
