@@ -1,7 +1,7 @@
 ---
 title: 执行npm相关命令报错code EINTEGRITY
 date: 2018-02-09 12:06:33
-tags:npm
+tags: npm
 ---
 
 ##### 问题：执行npm 相关命令如`npm install`，报错如下:
@@ -23,6 +23,8 @@ npm i -g npm
 
 ---
 
+参考
+
 [官方文档](https://www.npmjs.com/get-npm)
 
-[简书](https://www.jianshu.com/p/2899bd2a0a20)
+[npm ERR! code EINTEGRITY 解决方案](https://www.jianshu.com/p/2899bd2a0a20)
